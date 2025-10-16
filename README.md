@@ -5,7 +5,8 @@ Collect and archive some things that I find beneficial on the Internet or in my 
 ## catalog
 - ⭐&nbsp;[good网站收录](#website)
 - <img src="./resources/svgs/java.svg" width=17/>&nbsp;[Java相关](#java)-收录的需要有记忆的资源
-- <img src="./resources//svgs/上梯子_复制.svg" width=17/>&nbsp;[VPN代理/翻墙](#vpn-proxy)-收录的一些关于VPN的信息
+- <img src="./resources/svgs/上梯子_复制.svg" width=17/>&nbsp;[VPN代理/翻墙](#vpn-proxy)-收录的一些关于VPN的信息
+- <img src="./resources/svgs/Vue.svg" width=17/>&nbsp;[Vue学习](#vue)-学习Vue的知识链接直达
 - <img src="./resources//svgs/windows.svg" width=17/>&nbsp;[Windows系统的问题](#windows)-这里就会收录在我使用windows系统遇到的问题
 
 ## Website
@@ -22,6 +23,9 @@ Collect and archive some things that I find beneficial on the Internet or in my 
 >- [通过热点共享代理给局域网内的手机等移动设备](https://www.cnblogs.com/leebri/p/16861318.html)
 > - [手机变身万能代理器：Clash 热点共享上网的终极实战指南](https://clashformac.github.io/news/article-116187.htm)
 > - [如何将Android手机当成代理服务器为PC提供代理上网服务？](https://www.cnblogs.com/chorm590/p/13224732.html)
+
+## vue
+> - [官方vue3链接直达](https://cn.vuejs.org/)
 
 ## Windows
 > - [右键添加可选应用](https://blog.csdn.net/m0_63456023/article/details/149415877)-通过这个右键添加vscode打开，可学习到注册表相关知识
