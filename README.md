@@ -7,7 +7,8 @@ Collect and archive some things that I find beneficial on the Internet or in my 
 - <img src="./resources/svgs/java.svg" width=17/>&nbsp;[Java相关](#java)-收录的需要有记忆的资源
 - <img src="./resources/svgs/上梯子_复制.svg" width=17/>&nbsp;[VPN代理/翻墙](#vpn-proxy)-收录的一些关于VPN的信息
 - <img src="./resources/svgs/Vue.svg" width=17/>&nbsp;[Vue学习](#vue)-学习Vue的知识链接直达
-- <img src="./resources//svgs/windows.svg" width=17/>&nbsp;[Windows系统的问题](#windows)-这里就会收录在我使用windows系统遇到的问题
+- <img src="./resources/svgs/windows.svg" width=17/>&nbsp;[Windows系统的问题](#windows)-这里就会收录在我使用windows系统遇到的问题
+- <img src="./resources/svgs/前端.svg" width=17 />&nbsp;[前端](#fronted)-包含HTML,CSS,JavaScript,ES6等等相关知识收录
 
 ## Website
 > - <img src="./resources//svgs/iconfont.svg" width=60/>&nbsp;[阿里巴巴矢量图标库iconfont](https://www.iconfont.cn/)-大量图标素材
@@ -27,5 +28,10 @@ Collect and archive some things that I find beneficial on the Internet or in my 
 ## vue
 > - [官方vue3链接直达](https://cn.vuejs.org/)
 
+> - [Vue Router官方链接](https://router.vuejs.org/zh/guide/)
+> - [vue 路由的内置组件 router-view 详细介绍（有图有真相）](https://blog.csdn.net/qq_44163269/article/details/105185163)
+
 ## Windows
 > - [右键添加可选应用](https://blog.csdn.net/m0_63456023/article/details/149415877)-通过这个右键添加vscode打开，可学习到注册表相关知识
+
+## Fronted
