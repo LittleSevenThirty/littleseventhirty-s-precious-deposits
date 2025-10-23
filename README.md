@@ -35,3 +35,11 @@ Collect and archive some things that I find beneficial on the Internet or in my 
 > - [右键添加可选应用](https://blog.csdn.net/m0_63456023/article/details/149415877)-通过这个右键添加vscode打开，可学习到注册表相关知识
 
 ## Fronted
+**HTML**
+> - [History API学习](https://developer.mozilla.org/en-US/docs/Web/API/History)-关于站点如何切换的知识
+> - [Window:hashchange event接口](https://developer.mozilla.org/en-US/docs/Web/API/Window/hashchange_event)-也是关于站点切换的
+
+**ES6**
+> - [ECMAScript 6 入门- 《阮一峰 ECMAScript 6 (ES6) 标准入门教程 第三版》](https://www.bookstack.cn/read/es6-3rd/sidebar.md)
+>
+>
